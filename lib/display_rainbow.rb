@@ -9,5 +9,5 @@ def display_rainbow(colors=[])
  blue = letters[4] + colors[4] + space
  indigo = letters[5] + colors[5] + space
  violet = letters[6] + colors[6]
- puts red + orange + space + yellow + green + blue + indigo + violet
+ puts red + orange + yellow + green + blue + indigo + violet
  end
